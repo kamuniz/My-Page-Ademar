@@ -1,0 +1,25 @@
+img {
+    width: 200px;
+}
+
+body {
+    background: url("https://data.whicdn.com/images/37127636/large.jpg");
+}
+
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-size:100px;
+}
+
+h1:hover {
+    color: blue;
+}
+
+p {
+    color: white;
+ 
+}
+p { font-family: 'Almarai', sans-serif;
+font-family: 'Notable', sans-serif; 
+font-size:30px;}
